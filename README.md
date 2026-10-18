@@ -11,12 +11,14 @@
 ### GrassFX 0.02
 - [Download Source Code (.tar.xz)](https://raw.githubusercontent.com/OzdemirArda46/GrassProject/main/GrassFX_Source_Code-0.02.tar.xz
 )
-- [Download Debian (.deb) File](https://gnu.org)
 
 ### GrassFX 0.03
 - [Download Source Code (.tar.xz)](https://raw.githubusercontent.com/OzdemirArda46/GrassProject/main/GrassFX_Source_Code-0.03.tar.xz
 )
-- [Download Debian (.deb) File](https://gnu.org)
+
+### GrassFX 0.1
 
 ## Usage
-- [View  Documentation](https://github.com/OzdemirArda46/GrassProject/blob/main/How-To-Use.txt)
+- [English Manual](https://github.com/OzdemirArda46/GrassProjectSite/blob/main/Guide-EN.md)
+- 
+  [Turkish Manual](https://github.com/OzdemirArda46/GrassProjectSite/blob/main/GUIDE-TR.md)
