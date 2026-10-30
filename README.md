@@ -20,6 +20,10 @@
 - [Download Source Code (.tar.xz)](https://raw.githubusercontent.com/OzdemirArda46/GrassProject/main/GrassFX_Source_Code-0.1.tar.xz
 )
 
+### GrassFX 0.2
+- [Download Source Code (.tar.xz)](https://raw.githubusercontent.com/OzdemirArda46/GrassProject/main/GrassFX_Source_Code-0.2.tar.xz
+)
+
 ## Usage
 - [English Manual](https://github.com/OzdemirArda46/GrassProjectSite/blob/main/Guide-EN.md)
 - 
